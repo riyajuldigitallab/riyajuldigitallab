@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=1500&pause=300&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+MD+Riyajul+Karim+Ruhan" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=1500&pause=500&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+MD+Riyajul+Karim+Ruhan" />
 </h1>
 
 Passionate Android developer focused on building useful and user-friendly applications.
