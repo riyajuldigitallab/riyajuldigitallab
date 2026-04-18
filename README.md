@@ -15,6 +15,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ... i love code
 -->
 
+
+
+
+Passionate Android developer focused on building useful and user-friendly applications.
+I enjoy working with Java and exploring new technologies to improve my skills.
+Currently developing apps related to education, Islamic content, and utility tools.
+Always eager to learn, grow, and contribute to meaningful projects.
+
+
+
+
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/riyajuldigitallab) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:riyajulkarimruhan2025@gmail.com) 
 
